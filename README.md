@@ -54,6 +54,10 @@ Enter rate of customer arrival at the bank (in minutes): 2
 
 The simulation will output the total time taken to serve all customers, the number of customers served by each counter, and the average service time per customer.
 
+## Project Report
+
+Find the project report <a href="https://github.com/saky-semicolon/Bank-Queue-Simulation/blob/main/Report_Bank%20Queue%20Simulation.pdf">here</a>
+
 <hr>
 <a href="www.linkedin.com/in/saky-semicolon">S M Asiful Islam Saky</a>
 
